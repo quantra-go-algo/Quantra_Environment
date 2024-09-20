@@ -32,7 +32,7 @@ dependencies:
     - openai-whisper
     - mplfinance
     - alpaca-trade-api
-    - nltk
+    - nltk==3.8.1
     - ffmpeg-python
     - pypdf
     - alpaca-py
